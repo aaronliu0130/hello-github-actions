@@ -7,7 +7,7 @@ LABEL "com.github.actions.color"="purple"
 
 LABEL "repository"="http://github.com/octocat/hello-world"
 LABEL "homepage"="http://github.com/actions"
-LABEL "maintainer"="Octocat <octocat@github.com>"
+LABEL "maintainer"="Aaron Liu <aaronliu0130@outlook.com>"
 
 ADD entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
